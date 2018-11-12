@@ -5,7 +5,7 @@
     <AssemblyName>SecureHttpClient.CertificatePinning</AssemblyName>
     <OutputType>Library</OutputType>
     <PackageId>SecureHttpClient.CertificatePinning</PackageId>
-    <ReleaseVersion>dev</ReleaseVersion>
+    <SynchReleaseVersion>false</SynchReleaseVersion>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">

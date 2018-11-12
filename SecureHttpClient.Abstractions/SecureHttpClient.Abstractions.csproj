@@ -5,7 +5,7 @@
     <AssemblyName>SecureHttpClient.Abstractions</AssemblyName>
     <OutputType>Library</OutputType>
     <PackageId>SecureHttpClient.Abstractions</PackageId>
-    <ReleaseVersion>dev</ReleaseVersion>
+    <SynchReleaseVersion>false</SynchReleaseVersion>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">

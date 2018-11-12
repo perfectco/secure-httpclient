@@ -6,7 +6,7 @@
     <OutputType>Library</OutputType>
     <PackageId>SecureHttpClient</PackageId>
     <RootNamespace>SecureHttpClient</RootNamespace>
-    <ReleaseVersion>dev</ReleaseVersion>
+    <SynchReleaseVersion>false</SynchReleaseVersion>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
